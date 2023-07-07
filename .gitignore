@@ -2,3 +2,4 @@
 fp-info-cache
 production/
 *.kicad_prl
+*.zip
