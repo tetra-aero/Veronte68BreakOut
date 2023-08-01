@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.2-6a45011f42~172~ubuntu20.04.1"
+      "Version": "7.0.6-7.0.6~ubuntu20.04.1"
     },
-    "CreationDate": "2023-07-07T12:58:52+09:00"
+    "CreationDate": "2023-08-01T14:44:24+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Veronte68BreakOut",
       "GUID": "5665726f-6e74-4653-9638-427265616b4f",
-      "Revision": "V1.1"
+      "Revision": "V2.0"
     },
     "Size": {
       "X": 125.1,

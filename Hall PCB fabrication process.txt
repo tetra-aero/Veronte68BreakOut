@@ -1,8 +1,0 @@
-1、File name:Hall
-2、File Format: KICAD 7.0
-3、Material: FR4
-4、Board Thickness: 1mm
-5、Copper Foil Thickness: 4 ounces (140um)
-6、Green Solder Mask, White Silkscreen, 
-7、Surface Finish: Electroless Nickel/Immersion Gold
-8、Number of Layers: 2 layers
