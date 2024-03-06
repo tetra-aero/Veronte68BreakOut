@@ -3,3 +3,5 @@ fp-info-cache
 production/
 *.kicad_prl
 *.zip
+
+Mistake_upload/
